@@ -1,5 +1,2 @@
 # Demo
  text
-
-## Subhead
-text
