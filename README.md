@@ -8,5 +8,3 @@ text
 t
 t
 t
-t
-t
