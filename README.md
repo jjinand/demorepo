@@ -5,5 +5,3 @@ Text
 Text
 
 Another text
-
-Another text
